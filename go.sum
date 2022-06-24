@@ -1,0 +1,10 @@
+github.com/emicklei/dot v1.0.0 h1:yyObALINBOuI1GdCRwVea2IPtGtVgh0NQgJDrE03Tqc=
+github.com/emicklei/dot v1.0.0/go.mod h1:DeV7GvQtIw4h2u73RKBkkFdvVAz0D9fzeJrgPW6gy/s=
+github.com/reusee/dscope v0.0.0-20220624024902-b1b890da6058 h1:21SXousHUfZdx54kIjB7S+DOsqMMgprbOWd/Hfj6YzI=
+github.com/reusee/dscope v0.0.0-20220624024902-b1b890da6058/go.mod h1:lmV1rgULURVx7LVjzrOK0LY4qrMInJ9bbifyjTtae/I=
+github.com/reusee/dscope v0.0.0-20220624034616-048f29346087 h1:KngLq4xngZqQy72VRi+YWWItRFM63I6rXWzYc22QyOw=
+github.com/reusee/dscope v0.0.0-20220624034616-048f29346087/go.mod h1:lmV1rgULURVx7LVjzrOK0LY4qrMInJ9bbifyjTtae/I=
+github.com/reusee/e4 v0.0.0-20220624024633-9eab321f05d6 h1:HG863jGFtcMuLte70apB3jC7lvgiTSWUnoHuDa9S0+A=
+github.com/reusee/e4 v0.0.0-20220624024633-9eab321f05d6/go.mod h1:kZmlM15C4htN/zwSQz5HJPQo8BCZY5NnmkyZBDqjwc4=
+github.com/reusee/pr v0.0.0-20220624024755-23e64bd7728c h1:1yv1SCRQTrs0l6Sr2gHry5uOCAE3zEXmgmjXieH8RF4=
+github.com/reusee/pr v0.0.0-20220624024755-23e64bd7728c/go.mod h1:P5LL5BRHQGKJjYiV77MzYpmB+7V8BUAbEzaUmKELuMk=
